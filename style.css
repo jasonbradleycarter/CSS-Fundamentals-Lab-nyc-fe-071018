@@ -17,4 +17,9 @@ nav a {
 section details  {
   width: 25%;
   display: block;
+  float: left;
 }
+
+
+
+
